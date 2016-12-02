@@ -1,3 +1,6 @@
+#project: LinkedList
+#author: Rick Anderson
+
 from ListNode import ListNode
 
 
